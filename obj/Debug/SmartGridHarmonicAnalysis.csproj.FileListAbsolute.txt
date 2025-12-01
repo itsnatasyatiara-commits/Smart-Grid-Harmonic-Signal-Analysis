@@ -1,0 +1,18 @@
+C:\Users\ca\source\repos\SmartGridHarmonicAnalysis\obj\Debug\SmartGridHarmonicAnalysis.csproj.AssemblyReference.cache
+C:\Users\ca\source\repos\SmartGridHarmonicAnalysis\obj\Debug\SmartGridHarmonicAnalysis.Properties.Resources.resources
+C:\Users\ca\source\repos\SmartGridHarmonicAnalysis\obj\Debug\SmartGridHarmonicAnalysis.csproj.GenerateResource.cache
+C:\Users\ca\source\repos\SmartGridHarmonicAnalysis\obj\Debug\SmartGridHarmonicAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\ca\source\repos\SmartGridHarmonicAnalysis\bin\Debug\SmartGridHarmonicAnalysis.exe.config
+C:\Users\ca\source\repos\SmartGridHarmonicAnalysis\bin\Debug\SmartGridHarmonicAnalysis.exe
+C:\Users\ca\source\repos\SmartGridHarmonicAnalysis\bin\Debug\SmartGridHarmonicAnalysis.pdb
+C:\Users\ca\source\repos\SmartGridHarmonicAnalysis\obj\Debug\SmartGridHarmonicAnalysis.exe
+C:\Users\ca\source\repos\SmartGridHarmonicAnalysis\obj\Debug\SmartGridHarmonicAnalysis.pdb
+C:\My Files\COLLEGE\Semester 3\SPS\SmartGridHarmonicAnalysis\SmartGridHarmonicAnalysis\bin\Debug\SmartGridHarmonicAnalysis.exe.config
+C:\My Files\COLLEGE\Semester 3\SPS\SmartGridHarmonicAnalysis\SmartGridHarmonicAnalysis\bin\Debug\SmartGridHarmonicAnalysis.exe
+C:\My Files\COLLEGE\Semester 3\SPS\SmartGridHarmonicAnalysis\SmartGridHarmonicAnalysis\bin\Debug\SmartGridHarmonicAnalysis.pdb
+C:\My Files\COLLEGE\Semester 3\SPS\SmartGridHarmonicAnalysis\SmartGridHarmonicAnalysis\obj\Debug\SmartGridHarmonicAnalysis.csproj.AssemblyReference.cache
+C:\My Files\COLLEGE\Semester 3\SPS\SmartGridHarmonicAnalysis\SmartGridHarmonicAnalysis\obj\Debug\SmartGridHarmonicAnalysis.Properties.Resources.resources
+C:\My Files\COLLEGE\Semester 3\SPS\SmartGridHarmonicAnalysis\SmartGridHarmonicAnalysis\obj\Debug\SmartGridHarmonicAnalysis.csproj.GenerateResource.cache
+C:\My Files\COLLEGE\Semester 3\SPS\SmartGridHarmonicAnalysis\SmartGridHarmonicAnalysis\obj\Debug\SmartGridHarmonicAnalysis.csproj.CoreCompileInputs.cache
+C:\My Files\COLLEGE\Semester 3\SPS\SmartGridHarmonicAnalysis\SmartGridHarmonicAnalysis\obj\Debug\SmartGridHarmonicAnalysis.exe
+C:\My Files\COLLEGE\Semester 3\SPS\SmartGridHarmonicAnalysis\SmartGridHarmonicAnalysis\obj\Debug\SmartGridHarmonicAnalysis.pdb
