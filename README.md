@@ -48,4 +48,4 @@ Implements mathematical transfer functions to simulate real-world sensor charact
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/YourUsername/SmartGridHarmonicAnalysis.git
+   git clone (https://github.com/itsnatasyatiara-commits/Smart-Grid-Harmonic-Signal-Analysis/tree/8201a63f19479174a5c697128322434ae4a0d21b)
